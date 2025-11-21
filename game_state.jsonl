@@ -1,5 +1,4 @@
-{"timestamp": "02:05:18.315", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "02:05:20.287", "elapsed_s": 3, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "02:05:22.257", "elapsed_s": 5, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "02:05:24.227", "elapsed_s": 7, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "02:05:26.193", "elapsed_s": 9, "frame": 300, "screen_size": [1280, 720]}
+{"timestamp": "02:36:14.929", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "02:36:15.935", "elapsed_s": 2, "frame": 120, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "02:36:16.937", "elapsed_s": 3, "frame": 180, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
+{"timestamp": "02:36:19.558", "elapsed_s": 5, "frame": 240, "screen_size": [1280, 720], "player": {"type": "Player", "pos": [640.0, 360.0], "vel": [0.0, 0.0], "rad": 20, "rot": 0}}
